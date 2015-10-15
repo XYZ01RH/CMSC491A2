@@ -6,7 +6,7 @@ package edu.vcu.cmsc491.assignment2;
 
 
 /**
- * @author rileyZ
+ * @author XYZ10RH
  *
  */
 public class Date {
