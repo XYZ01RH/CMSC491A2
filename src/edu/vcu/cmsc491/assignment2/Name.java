@@ -1,5 +1,7 @@
 /**
- * 
+ * Riley Hanson
+ * CMSC491 Assignment 2
+ * Fall 2015
  */
 package edu.vcu.cmsc491.assignment2;
 
@@ -11,7 +13,7 @@ import java.util.ArrayList;
 
 import org.apache.commons.lang3.text.WordUtils;
 /**
- * @author rileyZ
+ * @author XYZ10RH
  *
  */
 public class Name {
