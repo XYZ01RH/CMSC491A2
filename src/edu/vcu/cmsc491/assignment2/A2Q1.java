@@ -18,7 +18,7 @@ package edu.vcu.cmsc491.assignment2;
 import java.io.IOException;
 
 /**
- * @author rileyZ
+ * @author XYZ01RH
  *
  */
 public class A2Q1 {
