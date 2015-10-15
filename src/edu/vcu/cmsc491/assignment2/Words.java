@@ -1,5 +1,7 @@
 /**
- * 
+ * Riley Hanson
+ * CMSC 491 Assingment 2
+ * Fall 2015
  */
 package edu.vcu.cmsc491.assignment2;
 
@@ -7,7 +9,7 @@ import java.io.*;
 import java.util.*;
 
 /**
- * @author rileyZ
+ * @author XYZ01RH
  *
  */
 public class Words {
